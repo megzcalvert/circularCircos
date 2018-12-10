@@ -1,0 +1,23 @@
+# Triticum aestivum IWGSC ref seq
+# plants.ensembl.org/Triticum_aestivum
+chr - ta1A 1A 0 594102056 pagPink
+chr - ta1B 1B 0 689851870 dgrey
+chr - ta1D 1D 0 495453186 pagGreen
+chr - ta2A 2A 0 780798557 pagPink
+chr - ta2B 2B 0 801256715 dgrey
+chr - ta2D 2D 0 651852609 pagGreen
+chr - ta3A 3A 0 750843639 pagPink
+chr - ta3B 3B 0 830829764 dgrey
+chr - ta3D 3D 0 615552423 pagGreen
+chr - ta4A 4A 0 744588157 pagPink
+chr - ta4B 4B 0 673617499 dgrey
+chr - ta4D 4D 0 509857067 pagGreen
+chr - ta5A 5A 0 709773743 pagPink
+chr - ta5B 5B 0 713149757 dgrey
+chr - ta5D 5D 0 566080677 pagGreen
+chr - ta6A 6A 0 618079260 pagPink
+chr - ta6B 6B 0 720988478 dgrey
+chr - ta6D 6D 0 473592718 pagGreen
+chr - ta7A 7A 0 736706236 pagPink
+chr - ta7B 7B 0 750620385 dgrey
+chr - ta7D 7D 0 638686055 pagGreen
